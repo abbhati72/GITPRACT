@@ -6,5 +6,3 @@ public class Main {
 	  
 }
 }
-
-// this is new added
